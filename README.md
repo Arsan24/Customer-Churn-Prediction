@@ -8,16 +8,7 @@
 
 ## Bussines Question
 1. What are the primary factors driving customer churn?
-  Identifying the key factors that lead to customer churn helps the business focus on those areas to implement effective retention strategies.
-
 2. How accurately can we predict customer churn?
-  Accurate predictions allow the business to proactively engage with at-risk customers and prevent churn, thereby saving costs and increasing customer lifetime value.
-
 3. Are there specific behavioral patterns that indicate a higher likelihood of churn?
-  Reccognizing patterns in customer behavior that precede churn enables the business to intervene before a customer decides to leave, improving retention rates.
-
 4. What is the impact of payment delays on the likelihood of churn?
-  Understanding the correlation between payment delays and churn can lead to adjustments in payment policies or the introduction of reminders and incentives to encourage timely payments.
-
 5. Which customer segments are most vulnerable to churn?
-  Identifying the most at-risk segments allows the business to tailor retention strategies to these groups, potentially reducing overall churn rates.
