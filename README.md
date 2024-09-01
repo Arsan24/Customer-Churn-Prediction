@@ -6,7 +6,7 @@
 
   Understanding customer churn is crucial for businesses to identify patterns, factors, and indicators that contribute to customer attrition. By analyzing churn behavior and its associated features, companies can develop strategies to retain existing customers, improve customer satisfaction, and reduce customer turnover. Predictive modeling techniques can also be applied to forecast and proactively address potential churn, enabling companies to take proactive measures to retain at-risk customers.
 
-## Bussines Question
+## Business Question
 1. What are the primary factors driving customer churn?
 2. How accurately can we predict customer churn?
 3. Are there specific behavioral patterns that indicate a higher likelihood of churn?
